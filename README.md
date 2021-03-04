@@ -1,4 +1,4 @@
-# expanses
+# expenses
 
 A new Flutter project.
 
